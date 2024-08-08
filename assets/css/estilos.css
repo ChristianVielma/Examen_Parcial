@@ -1,0 +1,40 @@
+/* estilos.css */
+body {
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    font-family: 'Cinzel', serif;
+}
+
+h3 {
+    font-family: 'Cinzel', serif;
+    color: #b30000;
+}
+
+.card-header {
+    background-color: #333333;
+    color: #e0e0e0;
+    border-bottom: 2px solid #b30000;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+input[type="text"] {
+    background-color: #262626;
+    color: #e0e0e0;
+    border: 1px solid #b30000;
+}
+
+.btn-primary {
+    width: 50%;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+.btn-primary:hover {
+    background-color: #800000;
+}
